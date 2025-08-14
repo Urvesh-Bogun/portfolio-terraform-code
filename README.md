@@ -1,8 +1,7 @@
 <h1 align="center"> IaC - Portfolio</h1>
 This is the IaC for my web portfolio. It is the first attempt of many at a AWS project.
 
-## Architecture
-<img src="portf-1.png"/>
+![Architecture](./port-1.png)
 
 Services Used:
 <ul>
